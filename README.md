@@ -1,4 +1,6 @@
 # MLMasteryEndToEnd
-Exercises implementation of 'Machine Learning Mastery With Python' book. Author Jason Brownlee.\n
-Reference: https://machinelearningmastery.com/ \n
+Exercises implementation of 'Machine Learning Mastery With Python' book. Author Jason Brownlee.
+
+Reference: https://machinelearningmastery.com/
+
 Book: https://machinelearningmastery.com/machine-learning-with-python/
